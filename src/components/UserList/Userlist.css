@@ -1,0 +1,21 @@
+.userlist-main .search-bar {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 2rem;
+}
+
+.userlist-main .search-bar .search-input {
+  width: 30%;
+}
+
+.userlist-main .user-table .ant-table-thead .ant-table-cell {
+  background: #989898;
+}
+
+.userlist-main .user-table .action-buttons span {
+  margin-right: 1rem;
+}
+
+.userlist-main .list-title {
+  color: #2388ed !important;
+}
